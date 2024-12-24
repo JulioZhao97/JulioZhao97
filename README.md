@@ -1,5 +1,15 @@
-## Hi there 👋
+### Hi there, I am Zhiyuan Zhao 👋
 
-Hi 👋, I'm [Zhiyuan Zhao](https://scholar.google.com/citations?user=K0BNv0YAAAAJ&hl=en), a research engineer at Shanghai Artificial Intelligence Laboratory, feel free to contact me at my [e-mail](zhaozhiyuan@pjlab.org.cn) !
+🌱 Currently, I am an engineer at [OpenDataLab](https://github.com/opendatalab), focusing on Large Vision-Language Models (LVLMs) Data, particularly on document understanding and parsing.
 
-<img src="https://github-readme-stats.vercel.app/api?username=JulioZhao97&show_icons=true&locale=en&card_width=300" alt="JulioZhao97" />
+🌟 Recent Projects
+  - [DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO)
+  - [MinerU](https://github.com/opendatalab/MinerU)
+  - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
+  - [HA-DPO (LVLMs hallucination)](https://github.com/opendatalab/HA-DPO)
+
+🔭 Here is my [google scholar](https://scholar.google.com/citations?user=K0BNv0YAAAAJ&hl=en).
+
+⚡ Reach out to me: **zhaozhiyuan@pjlab.org.cn**
+
+<!-- [![Zhiyuan Zhao's github stats](https://github-readme-stats.vercel.app/api?username=JulioZhao97)](https://github.com/anuraghazra/github-readme-stats) -->
