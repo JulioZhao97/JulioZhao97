@@ -8,8 +8,6 @@
   - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
   - [HA-DPO (LVLMs hallucination)](https://github.com/opendatalab/HA-DPO)
 
-🔭 Here is my [google scholar](https://scholar.google.com/citations?user=K0BNv0YAAAAJ&hl=en).
+🔭 Here is my [google scholar](https://scholar.google.com/citations?user=K0BNv0YAAAAJ&hl=en)
 
 ⚡ Reach out to me: **zhaozhiyuan@pjlab.org.cn**
-
-<!-- [![Zhiyuan Zhao's github stats](https://github-readme-stats.vercel.app/api?username=JulioZhao97)](https://github.com/anuraghazra/github-readme-stats) -->
